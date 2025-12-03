@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 EFX Studio Landing Page
 
-## Getting Started
+### Visión General del Proyecto
 
-First, run the development server:
+Esta es la landing page oficial para **EFX Studio**, una agencia especializada en el desarrollo de software a medida. Nos enfocamos en soluciones digitales que impulsan la eficiencia y el crecimiento, incluyendo **Web Apps**, **Mobile Apps** y sistemas de **Automatización**.
+
+El objetivo principal de esta página es comunicar nuestra propuesta de valor, establecer credibilidad y generar leads calificados para nuestros servicios.
+
+### 🛠️ Tecnología Utilizada
+
+El proyecto está construido con herramientas modernas para asegurar un alto rendimiento, una excelente experiencia de usuario (UX) y una estructura optimizada para SEO.
+
+* **Framework:** Next.js
+* **Lenguaje:** TypeScript
+* **Estilos:** Tailwind 
+* **Tipografía:** Geist Font
+* **Hosting:** Vercel
+
+---
+
+### ⚙️ Configuración y Ejecución
+
+Sigue estos pasos para obtener una copia local del proyecto y ejecutarlo en tu entorno de desarrollo.
+
+#### Requisitos Previos
+
+* [Node.js](https://nodejs.org/en/) (versión 22.18.0)
+* Gestor de paquetes (npm, yarn o pnpm)
+
+#### 1. Clonar el Repositorio
+
+```bash
+git clone https://github.com/EnzoFiglioli/EFX-Studio-Landing-Page.git
+cd EFX-Studio-Landing-Page
+````
+
+#### 2\. Instalar Dependencias
+
+```bash
+npm install 
+# o yarn install
+# o pnpm install
+```
+
+#### 3\. Ejecutar el Servidor de Desarrollo
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# o yarn dev
+# o pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+El proyecto estará disponible en [http://localhost:3000](https://www.google.com/search?q=http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+-----
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 📝 SEO y Metadatos
 
-## Learn More
+Los metadatos esenciales para el SEO (título, descripción, palabras clave y Open Graph) están configurados en el archivo `app/layout.tsx`. Esto asegura que la página esté bien posicionada en los motores de búsqueda.
 
-To learn more about Next.js, take a look at the following resources:
+**Palabras clave principales:** `desarrollo de software a medida`, `web apps`, `mobile apps`, `automatización de procesos`.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-----
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 👤 Contacto
 
-## Deploy on Vercel
+Para consultas comerciales o soporte de EFX Studio:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+  * **Email:** `enzofiglioli.p@gmail.com`
