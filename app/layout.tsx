@@ -18,9 +18,6 @@ export const metadata: Metadata = {
     // 3. Keywords
     keywords: ['desarrollo de software a medida', 'web apps', 'mobile apps', 'automatización de procesos', 'agencia de desarrollo', 'eficiencia digital'],
     
-    // 4. Autor
-    author: 'EFX Studio',
-
     openGraph: {
         title: 'EFX Studio | Soluciones Digitales a Medida',
         description: 'Desarrollo de Apps, Automatización y Web Apps escalables.',
